@@ -7,7 +7,7 @@ Indexes the metadata of all kinds of academically relevant resources - journals,
 
 | Element | Description |
 | :- | :- |
-| Name | BASE TEST |
+| Name | BASE |
 | Website | https://www.base-search.net/ |
 | Owner | Bielefeld University |
 | Owner type | Public research organization |
