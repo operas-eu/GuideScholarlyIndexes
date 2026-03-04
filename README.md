@@ -42,7 +42,7 @@ The last section "Information Sources" gives links to the main sources of inform
 
 ## Are there other versions of the Guide?
 
-Spreasheet on Zenodo: https://doi.org/10.5281/zenodo.17103786
+Guide as a Knowledge Base (public spreadsheet): https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?gid=571401641#gid=571401641
 
 Honkit book version: in preparation.
 
