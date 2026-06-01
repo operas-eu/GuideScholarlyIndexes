@@ -8,7 +8,7 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Element | Description |
 | :- | :- |
 | Name | Diamond Discovery Hub (DDH) |
-| Website | https://ddh.diamas.org/en |
+| Website | https://ddh.edch.eu/en |
 | Owner | EDCH |
 | Owner type | Non-proft organisation |
 | Owner country | EU |
@@ -17,8 +17,8 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Access for index users | Free |
 | Access for data providers | Free (after selection) |
 | Number of indexed items | 2900 (in 2025) |
-| Documentation: general | Full documentation: https://ddh.diamas.org/docs/<br>Diamond criteria: https://ddh.diamas.org/docs/diamond-journals/.  |
-| Documentation: technical | Documentation for the data providers: https://ddh.diamas.org/docs/for-data-sources/ |
+| Documentation: general | Full documentation: https://ddh.edch.eu/docs/<br>Diamond criteria: https://ddh.edch.eu/docs/diamond-journals/.  |
+| Documentation: technical | Documentation for the data providers: https://ddh.edch.eu/docs/for-data-sources/ |
 
 ## SERVICE PROVISION
 
@@ -30,19 +30,19 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Content geographical provenance | European Research Area (ERA) and European Research Area and Innovation Committee (ERAC). |
 | Indexing level for publications | Journals |
 | Full text | Not available |
-| Index sources | Active Diamond Open Access Journals publishers or providers<br>DDH Trusted sources are selected from the EDCH registry: https://registry.diamas.org/ <br>Current active Trusted sources are listed on: https://ddh.diamas.org/en/sources  |
+| Index sources | Active Diamond Open Access Journals publishers or providers<br>DDH Trusted sources are selected from the EDCH registry: https://registry.edch.eu/ <br>Current active Trusted sources are listed on: https://ddh.edch.eu/en/sources  |
 | Data collected | Metadata |
 | Supported standard | The DDH uses a home-made standard for its metadata, the Journal Metadata Exchange Format (JMEF), available at: http://journalmetadata.org <br>Standard used for import:  JMEF <br><br>Standard used for export: JMEF, Dublin Core |
 | Bibliodiversity support | The DDH indexes exclusively verified Diamond Open Access Journals, validated against a set of transparent criteria including, but not limited to, the absence of fees for the author and the reader.<br>The DDH Diamond criteria are aligned with the Diamond Open Access Standard, and both the criteria and the standard have been established with the Diamond Open Access community.<br><br>It has no limitation in terms of disciplines or languages.<br><br>It is currently limited to the European Research Area (ERA) and the European Research Area and Innovation Committee (ERAC), which is broader than the European Union or the European continent. |
-| Additional services | OAI for metadata harvesting: https://ddh.diamas.org/docs/oai-api-documentation/ <br>JMEF metadata format: https://journalmetadata.org/  |
+| Additional services | OAI for metadata harvesting: https://ddh.edch.eu/docs/oai-api-documentation/ <br>JMEF metadata format: https://journalmetadata.org/  |
 
 ## INCLUSION PROCESS
 
 | Element | Description |
 | :- | :- |
-| Joining options | The DDH selects its trusted sources through a two-step process, described here: https://ddh.diamas.org/docs/become-a-trusted-source/. <br><br>The first step requires to be registered on the EDCH registry: https://registry.diamas.org/register. The Registry recognizes and accepts various types of actors: Institutional Publishers, Publishing Service Providers, Service, Tools and Technology providers, as well as National Capacity Centers.<br><br>The second step consists in the validation of the registered organization as a DDH trusted source. The DDH team makes a few additional verifications about the registered organization (verification steps documentation in progress).<br><br>Once validated, the Trusted source has to accept the DDH Terms of service and take full responsibility to check the compliance of their journal with the DDH six Diamond criteria. <br>The DDH does not check afterwards the accuracy of the information sent by the Trusted sources, as it fully relies on them for this work.<br><br>Here are the useful links for the Trusted sources:<br>- Terms of service: https://ddh.diamas.org/docs/terms-of-service/ <br>- Diamond criteria: https://ddh.diamas.org/docs/diamond-journals/<br>- Guidelines for the criteria's validation: https://ddh.diamas.org/docs/diamond-open-access-journal-verification-guidelines/ <br>- FAQ about criteria's valdation: https://ddh.diamas.org/docs/faq/  |
-| Data collection process | The data collection can happen through various options:<br>- upload of an Excel spreadsheet (based on the JMEF format)<br>- filling of an on-line form (for individual journals)<br>- upload of JMEF format through an OJS plugin<br>- harvesting through OAI-PMH of a JMEF dedicated set<br><br>The various options for data ingestion are described here: https://ddh.diamas.org/docs/data-ingestion/.  |
-| Application form for providers | An application form is available upon registration, see: https://ddh.diamas.org/docs/data-ingestion/?  |
+| Joining options | The DDH selects its trusted sources through a two-step process, described here: https://ddh.edch.eu/docs/become-a-trusted-source/. <br><br>The first step requires to be registered on the EDCH registry: https://registry.edch.eu/register. The Registry recognizes and accepts various types of actors: Institutional Publishers, Publishing Service Providers, Service, Tools and Technology providers, as well as National Capacity Centers.<br><br>The second step consists in the validation of the registered organization as a DDH trusted source. The DDH team makes a few additional verifications about the registered organization (verification steps documentation in progress).<br><br>Once validated, the Trusted source has to accept the DDH Terms of service and take full responsibility to check the compliance of their journal with the DDH six Diamond criteria. <br>The DDH does not check afterwards the accuracy of the information sent by the Trusted sources, as it fully relies on them for this work.<br><br>Here are the useful links for the Trusted sources:<br>- Terms of service: https://ddh.edch.eu/docs/terms-of-service/ <br>- Diamond criteria: https://ddh.edch.eu/docs/diamond-journals/<br>- Guidelines for the criteria's validation: https://ddh.edch.eu/docs/diamond-open-access-journal-verification-guidelines/ <br>- FAQ about criteria's valdation: https://ddh.edch.eu/docs/faq/  |
+| Data collection process | The data collection can happen through various options:<br>- upload of an Excel spreadsheet (based on the JMEF format)<br>- filling of an on-line form (for individual journals)<br>- upload of JMEF format through an OJS plugin<br>- harvesting through OAI-PMH of a JMEF dedicated set<br><br>The various options for data ingestion are described here: https://ddh.edch.eu/docs/data-ingestion/.  |
+| Application form for providers | An application form is available upon registration, see: https://ddh.edch.eu/docs/data-ingestion/  |
 | Contact information | ddh-management@sub.uni-goettingen.de   |
 
 ## MINIMUM REQUIREMENTS
@@ -51,7 +51,7 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | :- | :- |
 | Editorial | The main editorial requirements coincide with the DDH six Diamond criteria:<br>- Persistent identification: having a registered ISSN for the journal<br>- Scholarly journal: having established a peer review process<br>- Open Access with open licences: providing the outputs in open access with an open license<br>- No fees: no fees of any kind are required from the author or the reader)<br>- Open to all authors: no specific affiliation of the author is required to publish<br>- Community-owned:  the journal must be owned by public or not-for-profit organisations (or parts thereof) whose mission includes performing or promoting research and scholarship.  |
 | Data file format | None |
-| Metadata standard | The standard used by the DDH is the Journal Metadata Exchange Format (JMEF).<br>It is fully described as an XML schema here: https://github.com/CeON/jmef.<br>Its content is also available here: https://ddh.diamas.org/docs/ddh-metadata/. |
+| Metadata standard | The standard used by the DDH is the Journal Metadata Exchange Format (JMEF).<br>It is fully described as an XML schema here: https://github.com/CeON/jmef.<br>Its content is also available here: https://ddh.edch.eu/docs/ddh-metadata/. |
 | Metadata file format | Excel spreadsheet through direct upload<br>HTML through a web form<br>XML through OAI harvesting |
 | Minimum metadata | Title<br>e-ISSN<br>Scholarly journal criterium<br>No fees criterium<br>Open Access criterium<br>Open to all authors criterium<br>Communty-owned criterium |
 
@@ -70,5 +70,5 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Element | Description |
 | :- | :- |
 | Wikipedia | None |
-| Index web pages | https://ddh.diamas.org/en |
+| Index web pages | https://ddh.edch.eu/en |
 | Index news page | None |
