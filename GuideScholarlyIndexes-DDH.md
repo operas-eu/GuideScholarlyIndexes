@@ -15,7 +15,7 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Scope | Diamond Open Access journals |
 | Access for index users | Free |
 | Access for data providers | Free (after selection) |
-| Number of indexed items | 2900 (in 2025) |
+| Number of indexed items | 3918 (June 2026) |
 | Documentation: general | Full documentation: https://ddh.edch.eu/docs/<br>Diamond criteria: https://ddh.edch.eu/docs/diamond-journals/.  |
 | Documentation: technical | Documentation for the data providers: https://ddh.edch.eu/docs/for-data-sources/ |
 
