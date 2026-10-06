@@ -4,7 +4,6 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 
 
 ## SERVICE DESCRIPTION
-
 | Element | Description |
 | :- | :- |
 | Name | EZB (Electronic Journals Library) |
@@ -21,13 +20,12 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Documentation: technical | Description of EZB Services:<br>https://ezb.ur.de/services/index.phtml?bibid=AAAAA&colors=7&lang=en |
 
 ## SERVICE PROVISION
-
 | Element | Description |
 | :- | :- |
 | Service type | Selective bibliographic index |
 | Content type | Journals |
-| Content language | Any |
-| Content geographical provenance | Any |
+| Content language | No limitation |
+| Content geographical provenance | No limitation |
 | Indexing level for publications | Journal |
 | Full text | Link to the full text if available |
 | Index sources | EZB Community: https://ezb.ur.de/partners?lang=en  |
@@ -37,16 +35,14 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Additional services | Title lists of journal collections: <br>https://ezb.ur.de/services/collections?lang=en <br>Title lists of transformative agreements: <br>https://ezb.ur.de/services/transformative?lang=en    <br>EZB Linking Service (linkresolver): <br>https://ezb.ur.de/services/linkingdienst?lang=en <br>More services: <br>https://ezb.ur.de/services?lang=en  |
 
 ## INCLUSION PROCESS
-
 | Element | Description |
 | :- | :- |
-| Joining options | Participating EZB institutions collect journals and journal metadata (https://ezb.ur.de/services/becomeuser)<br>or<br>Publishers have to register and complete an online application form (https://ezb.ur.de/db_prop?lang=en) and participating EZB institutions check, if journal is relevant for researchers |
+| Joining options | Participating EZB institutions collect journals metadata (https://ezb.ur.de/services/becomeuser)<br>or<br>Publishers have to register and complete an online application form (https://ezb.ur.de/db_prop?lang=en) and participating EZB institutions check, if journal is relevant for researchers |
 | Data collection process | Participating institutions collect and maintain journal metadata (e.g., links to journals); Joint editing of journal entries; Discussion via EZB mailing list |
 | Application form for providers | https://ezb.ur.de/db_prop?lang=en |
 | Contact information | for data provider: info.ezb@ur.de<br>for user: local contact person (at home institution) |
 
 ## MINIMUM REQUIREMENTS
-
 | Element | Description |
 | :- | :- |
 | Editorial | Scholarly journals |
@@ -56,17 +52,15 @@ The Electronic Journals Library (EZB) is a service for the collaborative managem
 | Minimum metadata | Journal title<br>Journal website<br>Price for reading access<br>Subject area<br>Journal type (e.g. fulltext journals, retrospectively digitised) |
 
 ## ADDITIONAL CRITERIA
-
 | Element | Description |
 | :- | :- |
 | Editorial Additional Specifications | None |
-| Recommended metadata | Publisher/Provider<br>Languages<br>E-ISSN/P-ISSN<br>ZDB-Number<br>Publication period: Volume/Issue/Year/Moving Wall<br>Access conditions: Open Access, free access, but probably without further rights of use, Subscription with authentication mechanisms, etc. |
+| Recommended metadata | Publisher/Provider<br>Languages<br>E-ISSN/P-ISSN<br>ZDB-Number<br>Publication period: Volume/Issue/Year/Moving Wall<br>Access conditions: Open Access, Free access, Subscription with authentication mechanisms, etc. |
 | Optional metadata | General annotation on price type and access conditions<br>Information on publishing: Whether the journal accepts external submissions<br>Journal category: Diamond Open Access Journal, Mirror Journal, Subscribe to Open (S2O)<br>Remarks |
 | Other requirements | None |
 | SEO/UX requirements | None |
 
 ## INFORMATION SOURCES
-
 | Element | Description |
 | :- | :- |
 | Wikipedia | None |
